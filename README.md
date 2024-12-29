@@ -8,7 +8,10 @@ An interactive Hiking trail recommendation system as part of the Data Structure 
 Any application or IDE that can compile and run C++ code. Examples include:
   - GCC (GNU Compiler Collection)
   - Microsoft Visual Studio
-A .txt file for the Hike list and Member list. 
+
+A .txt file with needed information for:
+  - Hike list (with trail name, duration, type, and price).
+  -  Member list (with member name and current point).
 
 ## Files Overview
 
